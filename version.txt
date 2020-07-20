@@ -1,1 +1,1 @@
-{"algoscreen":{"sw":3.14,"size":6.53},"algoboard":{"sw":3.04,"size":0.5},"algobridge":{"sw":3.01,"size":0.5}}
+{"algoscreen":{"sw":3.14,"size":6.54},"algoboard":{"sw":3.04,"size":0.5},"algobridge":{"sw":3.01,"size":0.5}}
