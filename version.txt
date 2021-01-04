@@ -1,1 +1,1 @@
-{"algoscreen":{"sw":3.21,"size":17.15,"esp":true,"nex":false},"algowifi":{"sw":3.19,"size":1.05,"esp":true},"algoboard":{"sw":3.04,"size":0.5},"algobridge":{"sw":3.01,"size":0.5},"algorgb":{"sw":3.02,"size":0.5}}
+{"algoscreen":{"sw":3.21,"size":17.15,"esp":true,"nex":false},"algowifi":{"sw":3.20,"size":1.05,"esp":true},"algoboard":{"sw":3.04,"size":0.5},"algobridge":{"sw":3.01,"size":0.5},"algorgb":{"sw":3.02,"size":0.5}}
